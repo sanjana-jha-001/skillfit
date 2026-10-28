@@ -1,0 +1,16 @@
+Anya Rao
+Education
+B.Tech Computer Science, JSS Academy of Technical Education, Noida
+
+Skills
+Python, SQL, Git, Linux, data structures, algorithms, machine learning
+
+Projects
+- Offline college assistant using LangChain and Python
+- Inventory tracker built with Flask and PostgreSQL
+
+Experience
+- Intern at a fintech startup, backend work in Python and Docker
+
+Certifications
+- AWS Cloud Practitioner

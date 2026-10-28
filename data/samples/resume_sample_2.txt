@@ -1,0 +1,13 @@
+Krithik Subramanian
+Education
+B.Tech Data Science, Sample University
+
+Skills
+Pandas, NumPy, Excel, statistics, data visualization, communication
+
+Projects
+- Sales dashboard in Power BI
+- Customer churn prediction with scikit-learn
+
+Experience
+- Data analyst intern, weekly reporting and SQL queries

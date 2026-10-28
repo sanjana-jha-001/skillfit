@@ -1,0 +1,8 @@
+{
+  "_note": "SAMPLE values only. Replace with talent_check_company_skillsets.json from your facilitator.",
+  "companies": [
+    {"company": "Google LLC", "requirements": {"DSA": 8, "COD": 8, "OOD": 5, "APTI": 4, "COMM": 4, "AI": 5, "CLOUD": 4, "SQL": 4, "SWE": 6, "SYSD": 6, "NETW": 3, "OS": 5}},
+    {"company": "Microsoft Corporation", "requirements": {"DSA": 7, "COD": 7, "OOD": 6, "APTI": 4, "COMM": 5, "AI": 4, "CLOUD": 6, "SQL": 5, "SWE": 7, "SYSD": 5, "NETW": 3, "OS": 4}},
+    {"company": "Oracle Financial Services Software", "requirements": {"DSA": 5, "COD": 6, "OOD": 5, "APTI": 5, "COMM": 6, "AI": 2, "CLOUD": 4, "SQL": 7, "SWE": 5, "SYSD": 3, "NETW": 3, "OS": 3}}
+  ]
+}

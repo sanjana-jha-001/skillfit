@@ -1,0 +1,13 @@
+Associate Software Engineer - Oracle Financial Services Software
+Bengaluru, India
+
+Key Responsibilities
+- Develop and maintain Java services for banking products
+- Write and tune SQL and PL/SQL queries
+- Work with Linux environments and Git
+
+What We're Looking For
+- Knowledge of Java and object-oriented design
+- Good SQL and database fundamentals
+- Strong communication and teamwork
+- Familiarity with unit testing and agile practices

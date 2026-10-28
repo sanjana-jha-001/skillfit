@@ -1,0 +1,16 @@
+Software Engineer - Google LLC
+Bengaluru, India (Hybrid)
+
+About the job
+We build large-scale systems used by billions.
+
+Key Responsibilities
+- Design and build scalable backend services in Python or Java
+- Write efficient code using data structures and algorithms
+- Work on distributed systems and system design
+
+What We're Looking For
+- Strong coding skills in Python and SQL
+- Solid understanding of operating systems and multithreading
+- Experience with Git, unit testing and agile teams
+- Familiarity with AWS or GCP is a plus

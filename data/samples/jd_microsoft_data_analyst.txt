@@ -1,0 +1,19 @@
+Data Analyst - Microsoft Corporation
+Hyderabad, India
+
+About the team
+We help product teams make decisions with data.
+
+Key Responsibilities
+- Build dashboards and reports in Power BI and Excel
+- Write SQL queries against large datasets
+- Explain findings to business stakeholders
+
+What We're Looking For
+- Strong SQL and statistics fundamentals
+- Experience with Python or R for analysis
+- Good communication and presentation skills
+- Knowledge of Azure is a plus
+
+Benefits
+Health coverage and learning budget.

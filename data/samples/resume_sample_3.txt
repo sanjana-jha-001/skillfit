@@ -1,0 +1,13 @@
+Rohan Verma
+Education
+B.Tech Information Technology, Sample Institute
+
+Skills
+Java, object-oriented design, SQL, PostgreSQL, Git, unit testing, Linux, communication
+
+Projects
+- Banking transaction service in Java with PostgreSQL
+- Chat app using JavaScript and React
+
+Experience
+- Software intern, agile team, Java and REST APIs
